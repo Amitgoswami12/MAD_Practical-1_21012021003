@@ -6,3 +6,8 @@ Practical-1.3
 Practical-1.4
 
 ![image](https://github.com/Amitgoswami12/MAD_Practical-1_21012021003/assets/98880561/e3365d87-63e6-4a38-96d0-91980b0d6d69)
+
+
+Practical-1.8
+
+![image](https://github.com/Amitgoswami12/MAD_Practical-1_21012021003/assets/98880561/5101ecee-28ba-4416-a29a-7b73898e203f)
