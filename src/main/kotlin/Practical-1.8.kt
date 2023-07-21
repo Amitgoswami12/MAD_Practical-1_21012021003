@@ -24,5 +24,17 @@ fun main(){
     var a6 = arrayOf(intArrayOf(45,3), intArrayOf(4,1), intArrayOf(9,2))
     println(a6.contentDeepToString())
 
+    print("Enter number of Elements : ")
+    val size : Int = readLine()!!.toInt()
+    val user = IntArray(size) {0}
+
+
+    for(i in 0 until size)
+    {
+        print("a[$i]:")
+        user[i] = readLine()!!.toInt()
+    }
+    print("Entered Array = ")
+    println(user.contentToString())
 
 }
