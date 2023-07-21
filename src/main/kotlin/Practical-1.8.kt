@@ -13,7 +13,7 @@ fun main(){
     println(a3.contentToString())
 
     println("Array created using IntArray()")
-    var a4 = IntArray(5)
+    var a4 = IntArray(5){7}
     println(a4.joinToString (", "))
 
     println("Array created using IntArrayOf()")
