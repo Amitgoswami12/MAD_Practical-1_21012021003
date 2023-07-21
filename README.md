@@ -10,4 +10,5 @@ Practical-1.4
 
 Practical-1.8
 
-![image](https://github.com/Amitgoswami12/MAD_Practical-1_21012021003/assets/98880561/5101ecee-28ba-4416-a29a-7b73898e203f)
+![image](https://github.com/Amitgoswami12/MAD_Practical-1_21012021003/assets/98880561/8555cdad-4609-4f15-9d99-7090cc2569b7)
+
