@@ -37,4 +37,26 @@ fun main(){
     print("Entered Array = ")
     println(user.contentToString())
 
+    println("========================== With In-Built Function ==========================")
+    println("Array Sorted by in-built Function =  ")
+    user.sort()
+    println(user.contentToString())
+
+    val a7 = intArrayOf(45,96,689,593,-45,-76,-453,-56)
+    println("========================== Without In-Built Function ==========================")
+    println("Array Sorted without in-built Function = ")
+    println(user.contentToString())
+
+    var temp: Int
+    for (i in a7.indices) {
+        for (j in a7.indices) {
+            if (a7[j] > a7[i]) {
+                temp = a7[j]
+                a7[j] = a7[i]
+                a7[i] = temp
+            }
+        }
+    }
+    println("Array Sorted without in-built Function = ")
+    println(a7.contentToString())
 }
